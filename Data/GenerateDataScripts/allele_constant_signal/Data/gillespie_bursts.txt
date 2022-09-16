@@ -1,0 +1,142 @@
+20000
+prod1 = 0.000100 : = X1 
+prod2 = 0.000100 : = X2 
+prod3 = 0.000100 : = X3 
+prod4 = 0.000100 : = X4 
+prod5 = 0.000100 : = X5 
+prod6 = 0.000100 : = X6 
+prod7 = 0.000100 : = X7 
+prod8 = 0.000100 : = X8 
+prod9 = 0.000100 : = X9 
+prod10 = 0.000100 : = X10 
+deg1 = 0.010000 : X1 = 
+deg2 = 0.010000 : X2 = 
+deg3 = 0.010000 : X3 = 
+deg4 = 0.010000 : X4 = 
+deg5 = 0.010000 : X5 = 
+deg6 = 0.010000 : X6 = 
+deg7 = 0.010000 : X7 = 
+deg8 = 0.010000 : X8 = 
+deg9 = 0.010000 : X9 = 
+deg10 = 0.010000 : X10 = 
+ondep1 = 0.000250 : B1_off = B1_on
+ondep2 = 0.000250 : B2_off = B2_on
+ondep3 = 0.000250 : B3_off = B3_on
+ondep4 = 0.000250 : B4_off = B4_on
+ondep5 = 0.000250 : B5_off = B5_on
+ondep6 = 0.000250 : B6_off = B6_on
+ondep7 = 0.000250 : B7_off = B7_on
+ondep8 = 0.000250 : B8_off = B8_on
+ondep9 = 0.000250 : B9_off = B9_on
+ondep10 = 0.000250 : B10_off = B10_on
+off1 = 0.010000 : B1_on = B1_off
+off2 = 0.010000 : B2_on = B2_off
+off3 = 0.010000 : B3_on = B3_off
+off4 = 0.010000 : B4_on = B4_off
+off5 = 0.010000 : B5_on = B5_off
+off6 = 0.010000 : B6_on = B6_off
+off7 = 0.010000 : B7_on = B7_off
+off8 = 0.010000 : B8_on = B8_off
+off9 = 0.010000 : B9_on = B9_off
+off10 = 0.010000 : B10_on = B10_off
+Production difference
+proddiff1 = 10000
+proddiff2 = 10000
+proddiff3 = 10000
+proddiff4 = 10000
+proddiff5 = 10000
+proddiff6 = 10000
+proddiff7 = 10000
+proddiff8 = 10000
+proddiff9 = 10000
+proddiff10 = 10000
+Basal values
+onbasal1 = 1.000000e-03
+onbasal2 = 1.000000e-03
+onbasal3 = 1.000000e-03
+onbasal4 = 1.000000e-03
+onbasal5 = 1.000000e-03
+onbasal6 = 1.000000e-03
+onbasal7 = 1.000000e-03
+onbasal8 = 1.000000e-03
+onbasal9 = 1.000000e-03
+onbasal10 = 1.000000e-03
+Hill function k
+kX1 = 20
+kX2 = 20
+kX3 = 20
+kX4 = 20
+kX5 = 20
+kX6 = 20
+kX7 = 20
+kX8 = 20
+kX9 = 20
+kX10 = 20
+Hill function n
+nX1 = 1
+nX2 = 1
+nX3 = 1
+nX4 = 1
+nX5 = 1
+nX6 = 1
+nX7 = 1
+nX8 = 1
+nX9 = 1
+nX10 = 1
+Initial values
+X1 = 0
+X2 = 0
+X3 = 0
+X4 = 0
+X5 = 0
+X6 = 0
+X7 = 0
+X8 = 0
+X9 = 0
+X10 = 0
+B1_off = 1
+B1_on = 0
+B2_off = 1
+B2_on = 0
+B3_off = 1
+B3_on = 0
+B4_off = 1
+B4_on = 0
+B5_off = 1
+B5_on = 0
+B6_off = 1
+B6_on = 0
+B7_off = 1
+B7_on = 0
+B8_off = 1
+B8_on = 0
+B9_off = 1
+B9_on = 0
+B10_off = 1
+B10_on = 0
+Network
+0
+0
+0
+0
+-1
+-1
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+-1
+0
+0
+0
+0
+0
+-1
+0

@@ -1,0 +1,95 @@
+logOR	Category
+2.328379603	Regulation of Response to External Stimulus
+2.041392685	Regulation of Response to External Stimulus
+1.374846503	Regulation of Response to External Stimulus
+1.029383778	Regulation of Response to External Stimulus
+0.960847876	Regulation of Response to External Stimulus
+0.91204483	Regulation of Response to External Stimulus
+0.881310213	Regulation of Response to External Stimulus
+0.666177491	Regulation of Response to External Stimulus
+0.607199631	Regulation of Response to External Stimulus
+0.590600369	Regulation of Response to External Stimulus
+0.559308011	Regulation of Response to External Stimulus
+0.511594697	Regulation of Response to External Stimulus
+0.501944838	Regulation of Response to External Stimulus
+0.859997517	Response to TGFb Stimulus
+0.753327667	Response to TGFb Stimulus
+0.681542726	Response to TGFb Stimulus
+0.63778861	Response to TGFb Stimulus
+0.524053195	Response to TGFb Stimulus
+0.518993206	Response to TGFb Stimulus
+0.491262324	Response to TGFb Stimulus
+0.485523828	Response to TGFb Stimulus
+0.467361417	Response to TGFb Stimulus
+0.462493985	Response to TGFb Stimulus
+0.437987711	Response to TGFb Stimulus
+0.372649175	Response to TGFb Stimulus
+0.371039254	Response to TGFb Stimulus
+0.325853579	Response to TGFb Stimulus
+0.311079382	Response to TGFb Stimulus
+0.276784008	Response to TGFb Stimulus
+0.274643909	Response to TGFb Stimulus
+0.268067703	Response to TGFb Stimulus
+0.263221899	Response to TGFb Stimulus
+0.171974693	Response to TGFb Stimulus
+0.136396974	Response to TGFb Stimulus
+0.099296887	Response to TGFb Stimulus
+2.162365234	Response to Growth Factor Stimulus
+1.303196057	Response to Growth Factor Stimulus
+0.85942944	Response to Growth Factor Stimulus
+0.820304617	Response to Growth Factor Stimulus
+0.551807176	Response to Growth Factor Stimulus
+0.524117817	Response to Growth Factor Stimulus
+0.513118908	Response to Growth Factor Stimulus
+0.461395624	Response to Growth Factor Stimulus
+0.452434263	Response to Growth Factor Stimulus
+0.444999245	Response to Growth Factor Stimulus
+0.430124692	Response to Growth Factor Stimulus
+0.391599831	Response to Growth Factor Stimulus
+0.365182251	Response to Growth Factor Stimulus
+0.345343094	Response to Growth Factor Stimulus
+0.311601057	Response to Growth Factor Stimulus
+0.279213858	Response to Growth Factor Stimulus
+0.277155949	Response to Growth Factor Stimulus
+0.267448573	Response to Growth Factor Stimulus
+0.235006673	Response to Growth Factor Stimulus
+0.208275942	Response to Growth Factor Stimulus
+0.133350126	Response to Growth Factor Stimulus
+0.071706466	Response to Growth Factor Stimulus
+0.014240439	Response to Growth Factor Stimulus
+-0.072049269	Response to Growth Factor Stimulus
+2.162365234	Response to Fibroblast Growth Factor Stimulus
+1.373397068	Response to Fibroblast Growth Factor Stimulus
+1.324013903	Response to Fibroblast Growth Factor Stimulus
+0.935044047	Response to Fibroblast Growth Factor Stimulus
+0.565854591	Response to Fibroblast Growth Factor Stimulus
+0.548901486	Response to Fibroblast Growth Factor Stimulus
+0.53519697	Response to Fibroblast Growth Factor Stimulus
+0.501254934	Response to Fibroblast Growth Factor Stimulus
+0.46562117	Response to Fibroblast Growth Factor Stimulus
+0.442907154	Response to Fibroblast Growth Factor Stimulus
+0.439037449	Response to Fibroblast Growth Factor Stimulus
+0.385791119	Response to Fibroblast Growth Factor Stimulus
+0.384593281	Response to Fibroblast Growth Factor Stimulus
+0.362678426	Response to Fibroblast Growth Factor Stimulus
+0.348644771	Response to Fibroblast Growth Factor Stimulus
+0.311042992	Response to Fibroblast Growth Factor Stimulus
+0.292256071	Response to Fibroblast Growth Factor Stimulus
+0.27205804	Response to Fibroblast Growth Factor Stimulus
+0.265314443	Response to Fibroblast Growth Factor Stimulus
+0.238239166	Response to Fibroblast Growth Factor Stimulus
+0.186021761	Response to Fibroblast Growth Factor Stimulus
+0.143906576	Response to Fibroblast Growth Factor Stimulus
+0.072002661	Response to Fibroblast Growth Factor Stimulus
+0.055086956	Response to Fibroblast Growth Factor Stimulus
+-0.088842391	Response to Fibroblast Growth Factor Stimulus
+0.225901294	UDP-N-acetylglucosamine metabolic process
+0.717194824	UDP-N-acetylglucosamine metabolic process
+0.473393382	UDP-N-acetylglucosamine metabolic process
+0.173967565	UDP-N-acetylglucosamine metabolic process
+0.229204482	UDP-N-acetylglucosamine metabolic process
+0.529258842	UDP-N-acetylglucosamine metabolic process
+0.004581899	UDP-N-acetylglucosamine metabolic process
+0.276872338	UDP-N-acetylglucosamine metabolic process
+0.297350429	UDP-N-acetylglucosamine metabolic process
+0.431274228	UDP-N-acetylglucosamine metabolic process
